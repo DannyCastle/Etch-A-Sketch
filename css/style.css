@@ -1,3 +1,20 @@
 *{
-    border: 2px solid red;
+
+}
+
+#grid-ctn{
+    max-width: 960px;
+    background-color: #b1b5b2;
+    display: grid;
+    /*grid-template-columns: repeat(16, 50px);*/
+}
+
+#grid-ctn div{
+
+
+}
+
+#reset-btn {
+    text-align: center;
+    margin: 0 450px;
 }
